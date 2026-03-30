@@ -1,3 +1,4 @@
+<p align="center"><img src="assets/banner.png" alt="Banner" width="100%"></p>
 # Claude Code + Local Models via Ollama
 
 > The setup guide Anthropic won't write. Save $15-30/month by running AI coding assistants locally.
